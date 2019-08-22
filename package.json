@@ -1,0 +1,12 @@
+{
+  "name": "git",
+  "version": "2.0.0",
+  "description": "CVS SVN VSS",
+  "main": "新任务.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
