@@ -1,6 +1,9 @@
 {
   "name": "git",
-  "version": "1.0.0",
+
+
+  "version": "2.5.5",
+
   "description": "CVS SVN VSS",
   "main": "新任务.js",
   "scripts": {
