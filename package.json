@@ -2,7 +2,11 @@
   "name": "git",
 
 
-  "version": "2.5.5",
+
+  "version": "2.5.9",
+
+
+
 
   "description": "CVS SVN VSS",
   "main": "新任务.js",
